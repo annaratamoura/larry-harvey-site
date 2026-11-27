@@ -1,0 +1,133 @@
+{
+  "heroPortrait": {
+    "src": "/sites/larry/images/uploads/hf-20261123-231437-332f6012-e250-4ca2-93db-d3d69110c696-1-1795524642100.png",
+    "scale": 1.33,
+    "x": 62,
+    "y": 20,
+    "fit": "contain"
+  },
+  "founderPortrait": {
+    "src": "/sites/larry/images/larry-harvey-portrait.png",
+    "scale": 1.14,
+    "x": 50,
+    "y": 50,
+    "fit": "contain"
+  },
+  "story": {
+    "src": "/sites/larry/images/larry-harvey-story.png",
+    "scale": 1,
+    "x": 50,
+    "y": 50,
+    "fit": "cover"
+  },
+  "enjeux": [
+    {
+      "src": null,
+      "scale": 1,
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "src": null,
+      "scale": 1,
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "src": null,
+      "scale": 1,
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "src": null,
+      "scale": 1,
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    }
+  ],
+  "programmes": [
+    {
+      "src": "/sites/larry/images/lovingis-card.jpg",
+      "scale": 1,
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "src": "/sites/larry/images/twge-card.jpg",
+      "scale": 1,
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "src": "/sites/larry/images/legacy-card.jpg",
+      "scale": 1,
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    }
+  ],
+  "articles": [
+    {
+      "src": "/sites/larry/images/home-heart.jpg",
+      "scale": 1,
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "src": "/sites/larry/images/home-women.jpg",
+      "scale": 1,
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "src": "/sites/larry/images/home-sierra-leone.jpg",
+      "scale": 1,
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "src": "/sites/larry/images/home-florida.jpg",
+      "scale": 1,
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    }
+  ],
+  "restaurantVideo": {
+    "src": null,
+    "poster": null
+  },
+  "world": [
+    {
+      "src": null,
+      "scale": 1,
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "src": null,
+      "scale": 1,
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "src": null,
+      "scale": 1,
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    }
+  ]
+}
