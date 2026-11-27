@@ -1,7 +1,7 @@
 import { ArrowUpRightIcon } from "./icons";
 import { Reveal } from "./reveal";
 
-const WINE_SITE = "http://localhost:3100/en";
+const WINE_SITE = "https://harvey-trinity.netlify.app/en";
 
 const bottles = [
   {
