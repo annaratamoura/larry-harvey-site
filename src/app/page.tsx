@@ -13,7 +13,8 @@ export const metadata: Metadata = {
   openGraph: { title, description, type: "website" },
 };
 
-export const dynamic = process.env.NODE_ENV === "production" ? "force-static" : "force-dynamic";
+// Re-rendered on every request so the /editor changes show up live in dev; in production readContent() returns the bundled JSON.
+export const dynamic = "force-dynamic";
 
 export default async function Home() {
   const content = await readContent();
